@@ -48,5 +48,3 @@ Dataset Source: Public loan dataset (e.g., Lending Club)
 - Demonstrated stable predictions on unseen data
 
 ---
-
-## Project Structure
